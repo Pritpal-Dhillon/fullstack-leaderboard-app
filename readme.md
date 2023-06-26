@@ -67,8 +67,9 @@ Welcome to the leaderboard API documentation. This application contains a list o
 
 To run the unit tests for the backend or frontend, use the following command:
 
+```
 npm test
-
+```
 
 
 
